@@ -1,2 +1,2 @@
-# Planet Finder - Simple
+# Planet Finder
 Why not find your planet?
